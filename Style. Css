@@ -1,0 +1,11 @@
+body{
+    background-color: aliceblue;
+}
+.horizontal-line{
+    width: 50%;
+    margin:0  auto
+}
+.car-pool{
+    width: 20%;
+    height: 20%;
+}
